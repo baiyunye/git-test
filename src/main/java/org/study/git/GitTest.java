@@ -1,5 +1,8 @@
 package org.study.git;
 
+/**
+ * @author brave
+ */
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("Hello git!");
@@ -8,5 +11,6 @@ public class GitTest {
         System.out.println("Hello git4!");
         System.out.println("master test!");
         System.out.println("hot-fix test!");
+        System.out.println("push test!");
     }
 }
